@@ -1,3 +1,9 @@
+/*
+Thanks to NeoHun (https://discussions.unity.com/u/Neohun) on Unity Forums for
+providing this code (https://discussions.unity.com/t/setting-maximum-width-of-layout-element-with-content-size-fitter/586475/14).
+This code is NOT subject to the GPL-3.0 license the rest of the code is since it isn't my code.
+*/
+
 using UnityEngine;
 using UnityEngine.UI;
 #if UNITY_EDITOR
