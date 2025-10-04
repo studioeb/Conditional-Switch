@@ -11,7 +11,7 @@ A game where you switch gravity to dodge dangerous obstacles while answering que
 
 ## What is this?
 
-This is the GitHub repository where all of the source files for this game are stored. If you are here to play, just navigate to [github.com/studioeb/Conditional-Switch/releases](https://github.com/studioeb/Conditional-Switch/releases) and follow the installation instructions for your platform. Or, alternatively, you can play the game in your browser without downloading anything here: [studioeb.itch.io/conditional-switch](https://studioeb.itch.io/conditional-switch). This version is missing the quit button and options menu because those only work in standalone, but if you just want to try the game out, I would recommend that.
+This is the GitHub repository where all of the source files for this game are stored. If you are here to play, just navigate to [studioeb.itch.io/conditional-switch](https://studioeb.itch.io/conditional-switch). Previously I had builds for standalong OSes, but with the Unity exploit, I just don't want to rebuild all of them, so the only playable versio now is the WebGL version. This version is missing the quit button and options menu because those only work in standalone, though.
 
 ## Why did you decide to do this?
 
@@ -33,4 +33,4 @@ You can get in touch with me at [studioethanb@gmail.com](mailto:studioethanb@gma
 
 ## Developer Information
 
-This was created in Unity 2022.3.16f1, and it is in IL2CPP, not mono.
+This was created in Unity 2022.3.62f2, and it is in IL2CPP, not mono.
